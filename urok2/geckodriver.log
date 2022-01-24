@@ -1,0 +1,1294 @@
+1642793432140	geckodriver	INFO	Listening on 127.0.0.1:42221
+1642793432150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39983" "-no-remote" "-profile" "/tmp/rust_mozprofileyfc0qw"
+Gtk-Message: 22:30:32.308: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:30:32.309: Failed to load module "window-decorations-gtk-module"
+1642793433201	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyfc0qw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39983/devtools/browser/c9af86c7-ee06-450e-be7a-2cb037c56aa1
+1642793435889	Marionette	INFO	Listening on port 38537
+1642793435993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642793443030	Marionette	INFO	Stopped listening on port 38537
+1642793640912	geckodriver	INFO	Listening on 127.0.0.1:44343
+1642793641422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53065" "-no-remote" "-profile" "/tmp/rust_mozprofilez8MGTH"
+Gtk-Message: 22:34:01.561: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:34:01.562: Failed to load module "window-decorations-gtk-module"
+1642793642453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez8MGTH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53065/devtools/browser/b523e39f-8249-42c1-8dec-d7908c1d01f0
+1642793645168	Marionette	INFO	Listening on port 46673
+1642793645263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=pZ8DAfQiBn5hAmNHaIwUc9d-EUs&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fmath.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/R1B9DkRZwcDIRZ3R9sqVqoa_rY5Qa04vEjSiPeGSXMQ.js line 1 > eval line 53 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642793652920	Marionette	INFO	Stopped listening on port 46673
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642793714846	geckodriver	INFO	Listening on 127.0.0.1:45399
+1642793715357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43899" "-no-remote" "-profile" "/tmp/rust_mozprofilenJQNqN"
+Gtk-Message: 22:35:15.515: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:35:15.516: Failed to load module "window-decorations-gtk-module"
+1642793716428	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenJQNqN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43899/devtools/browser/d56f21aa-9511-4d99-a48c-c607f849ca39
+1642793719113	Marionette	INFO	Listening on port 46461
+1642793719199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=UKd5DxPtuAloM36SbUg8HZLdagA&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fmath.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642793727259	Marionette	INFO	Stopped listening on port 46461
+1642793755028	geckodriver	INFO	Listening on 127.0.0.1:39375
+1642793755542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46159" "-no-remote" "-profile" "/tmp/rust_mozprofilehyqw2v"
+Gtk-Message: 22:35:55.710: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:35:55.711: Failed to load module "window-decorations-gtk-module"
+1642793756599	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehyqw2v/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46159/devtools/browser/7d543bc4-4b59-4a02-bcbd-e2f6e779af79
+1642793759270	Marionette	INFO	Listening on port 45709
+1642793759386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=A2jBOi0FQopsUC9OIEmEcy5xmhQ&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fmath.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642793772533	Marionette	INFO	Stopped listening on port 45709
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642802579329	geckodriver	INFO	Listening on 127.0.0.1:54633
+1642802579340	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47855" "-no-remote" "-profile" "/tmp/rust_mozprofileEZEUVS"
+Gtk-Message: 01:02:59.465: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:02:59.466: Failed to load module "window-decorations-gtk-module"
+1642802580344	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEZEUVS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47855/devtools/browser/6951fc38-a76b-4e48-bc73-cbb2fc35ab7d
+1642802582873	Marionette	INFO	Listening on port 42429
+1642802582987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=gKwuX3XqI4Ov8znlRNEUKfEzHNw&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fmath.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642802594760	Marionette	INFO	Stopped listening on port 42429
+1642802840333	geckodriver	INFO	Listening on 127.0.0.1:53977
+1642802840349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57517" "-no-remote" "-profile" "/tmp/rust_mozprofileEkBfBa"
+Gtk-Message: 01:07:20.476: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:07:20.477: Failed to load module "window-decorations-gtk-module"
+1642802841357	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEkBfBa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57517/devtools/browser/0b23c292-414f-45b8-b494-4532e963308b
+1642802843885	Marionette	INFO	Listening on port 38147
+1642802843997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=pgKO-KSyho7dMtN0z9NUlZPPmoI&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fmath.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642802851702	Marionette	INFO	Stopped listening on port 38147
+1642802894500	geckodriver	INFO	Listening on 127.0.0.1:40941
+1642802894512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44495" "-no-remote" "-profile" "/tmp/rust_mozprofileGGfdNH"
+Gtk-Message: 01:08:14.646: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:08:14.647: Failed to load module "window-decorations-gtk-module"
+1642802895546	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGGfdNH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44495/devtools/browser/8e9dda39-f67b-4c84-b7d9-ad9f31a252ca
+1642802898051	Marionette	INFO	Listening on port 39241
+1642802898168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=xO-8wtp2PhoYO-prsM0n2uFk6G8&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fmath.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/R1B9DkRZwcDIRZ3R9sqVqoa_rY5Qa04vEjSiPeGSXMQ.js line 1 > eval line 7457 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642802910400	Marionette	INFO	Stopped listening on port 39241
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1642803946910	geckodriver	INFO	Listening on 127.0.0.1:48891
+1642803946921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47503" "-no-remote" "-profile" "/tmp/rust_mozprofileW2PzLf"
+Gtk-Message: 01:25:47.051: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:25:47.051: Failed to load module "window-decorations-gtk-module"
+1642803947940	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW2PzLf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47503/devtools/browser/7e00e669-7a7e-4a00-bb5f-c31cc5f50306
+1642803950458	Marionette	INFO	Listening on port 33327
+1642803950566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=EaMXtwzSmKGHBTTTGlaCNp1gsYg&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fmath.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642803960712	Marionette	INFO	Stopped listening on port 33327
+1642804343442	geckodriver	INFO	Listening on 127.0.0.1:48363
+1642804343453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57157" "-no-remote" "-profile" "/tmp/rust_mozprofileX3ZpO3"
+Gtk-Message: 01:32:23.590: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:32:23.591: Failed to load module "window-decorations-gtk-module"
+1642804344477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileX3ZpO3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57157/devtools/browser/9ef1314d-f52a-488b-8777-b43cfcd9ad62
+1642804347023	Marionette	INFO	Listening on port 46225
+1642804347106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=9yHWeoOlJrnIEH0VrPgpRR-1ly8&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fmath.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/R1B9DkRZwcDIRZ3R9sqVqoa_rY5Qa04vEjSiPeGSXMQ.js line 1 > eval line 1306 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642804356559	Marionette	INFO	Stopped listening on port 46225
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642804736024	geckodriver	INFO	Listening on 127.0.0.1:51165
+1642804736035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45505" "-no-remote" "-profile" "/tmp/rust_mozprofileepjRcm"
+Gtk-Message: 01:38:56.179: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:38:56.180: Failed to load module "window-decorations-gtk-module"
+1642804737071	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileepjRcm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45505/devtools/browser/38d7f764-2937-42e1-8908-c403824e98d6
+1642804739651	Marionette	INFO	Listening on port 40907
+1642804739780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=bdR6SI998k9FlrKojTLqA2puyno&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fmath.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/R1B9DkRZwcDIRZ3R9sqVqoa_rY5Qa04vEjSiPeGSXMQ.js line 1 > eval line 6381 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642804749678	Marionette	INFO	Stopped listening on port 40907
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1642804963057	geckodriver	INFO	Listening on 127.0.0.1:40073
+1642804963070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55967" "-no-remote" "-profile" "/tmp/rust_mozprofileI6feem"
+Gtk-Message: 01:42:43.211: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:42:43.211: Failed to load module "window-decorations-gtk-module"
+1642804964104	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI6feem/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55967/devtools/browser/093d1a43-fd12-4782-aa60-fd59956f9275
+1642804967029	Marionette	INFO	Listening on port 39279
+1642804967122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=7VHGabZn_EwqPbSgsuHP2uPJIP4&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fmath.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642804971200	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642804991560	Marionette	INFO	Stopped listening on port 39279
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1642805476555	geckodriver	INFO	Listening on 127.0.0.1:57411
+1642805476567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52267" "-no-remote" "-profile" "/tmp/rust_mozprofile1gqKG2"
+Gtk-Message: 01:51:16.718: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:51:16.719: Failed to load module "window-decorations-gtk-module"
+1642805477610	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1gqKG2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52267/devtools/browser/35a27003-2f33-40cb-bf1f-56a828da0952
+1642805480170	Marionette	INFO	Listening on port 33045
+1642805480223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=GMJSI3Lm59wN0ulkitLj2CtkwWw&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fmath.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642805490134	Marionette	INFO	Stopped listening on port 33045
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642805502893	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1642805517426	geckodriver	INFO	Listening on 127.0.0.1:35795
+1642805517441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50647" "-no-remote" "-profile" "/tmp/rust_mozprofilepeiJNK"
+Gtk-Message: 01:51:57.582: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:51:57.583: Failed to load module "window-decorations-gtk-module"
+1642805518484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepeiJNK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50647/devtools/browser/3e7f64b5-538a-4298-899f-f7006459b0bc
+1642805520973	Marionette	INFO	Listening on port 39593
+1642805521086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=ep1kq6vFkHxGP_EG2d5lzfPPuM0&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fget_attribute.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642805525462	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642805545612	Marionette	INFO	Stopped listening on port 39593
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilepeiJNK/protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642869824172	geckodriver	INFO	Listening on 127.0.0.1:43909
+1642869824572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38575" "-no-remote" "-profile" "/tmp/rust_mozprofilejR1xwO"
+Gtk-Message: 19:43:44.705: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 19:43:44.705: Failed to load module "window-decorations-gtk-module"
+1642869825624	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejR1xwO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38575/devtools/browser/142b1eb8-3f3b-4205-8249-83bd2cfd8b8b
+1642869828173	Marionette	INFO	Listening on port 37337
+1642869828219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=hfb6dTs-zMgbWG6qyawW2CIry9U&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fget_attribute.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642869832568	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642869853527	Marionette	INFO	Stopped listening on port 37337
+1642872221069	geckodriver	INFO	Listening on 127.0.0.1:55903
+1642872221458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36427" "-no-remote" "-profile" "/tmp/rust_mozprofileMS1T7o"
+Gtk-Message: 20:23:41.587: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 20:23:41.588: Failed to load module "window-decorations-gtk-module"
+1642872222481	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMS1T7o/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36427/devtools/browser/b7753c58-e3ea-4766-9d75-165542d61822
+1642872224758	Marionette	INFO	Listening on port 38545
+1642872224817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=-ndGgAQU8s1lllT-uiIvt-ogSjg&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fselects1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642872246665	Marionette	INFO	Stopped listening on port 38545
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642872309330	geckodriver	INFO	Listening on 127.0.0.1:37281
+1642872309405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35913" "-no-remote" "-profile" "/tmp/rust_mozprofile4ysxCh"
+Gtk-Message: 20:25:09.544: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 20:25:09.545: Failed to load module "window-decorations-gtk-module"
+1642872310487	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4ysxCh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35913/devtools/browser/bf0fde84-6d36-45c6-bec5-c97d7b99e9c0
+1642872312830	Marionette	INFO	Listening on port 35493
+1642872312949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=kkP_UcFqHVCdr6_6vbGjWu0BWE4&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fselects1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642872334952	Marionette	INFO	Stopped listening on port 35493
+1642872451017	geckodriver	INFO	Listening on 127.0.0.1:59165
+1642872451116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38189" "-no-remote" "-profile" "/tmp/rust_mozprofileLVEWqP"
+Gtk-Message: 20:27:31.314: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 20:27:31.314: Failed to load module "window-decorations-gtk-module"
+1642872452201	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLVEWqP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38189/devtools/browser/3ef65f93-35a7-4af2-a408-e16d842c20b5
+1642872454405	Marionette	INFO	Listening on port 41981
+1642872454470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=d9x-1E0OOPc4Oq4HgaBDlJgxyCw&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fselects1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 2635 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642872476349	Marionette	INFO	Stopped listening on port 41981
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1642872654650	geckodriver	INFO	Listening on 127.0.0.1:51449
+1642872654720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52177" "-no-remote" "-profile" "/tmp/rust_mozprofileXdxFly"
+Gtk-Message: 20:30:54.845: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 20:30:54.846: Failed to load module "window-decorations-gtk-module"
+1642872655733	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXdxFly/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52177/devtools/browser/a0579553-7684-4396-82c1-0e6f4d2c14bd
+1642872658017	Marionette	INFO	Listening on port 42039
+1642872658070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=boNZqAeiHbOIYWGh4mU1hmgz6OM&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fselects1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642872680439	Marionette	INFO	Stopped listening on port 42039
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642872736225	geckodriver	INFO	Listening on 127.0.0.1:34629
+1642872736302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53649" "-no-remote" "-profile" "/tmp/rust_mozprofilenOMuLg"
+Gtk-Message: 20:32:16.437: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 20:32:16.438: Failed to load module "window-decorations-gtk-module"
+1642872737330	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenOMuLg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53649/devtools/browser/a829586d-b525-471e-89e1-2e4ab7ad85a7
+1642872739513	Marionette	INFO	Listening on port 39611
+1642872739645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=Y5yS0o14givDUUI8Mf2oUtVbVdU&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fselects1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642872761338	Marionette	INFO	Stopped listening on port 39611
+1642872866007	geckodriver	INFO	Listening on 127.0.0.1:56689
+1642872866090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40063" "-no-remote" "-profile" "/tmp/rust_mozprofilexWg22S"
+Gtk-Message: 20:34:26.283: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 20:34:26.284: Failed to load module "window-decorations-gtk-module"
+1642872867194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexWg22S/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40063/devtools/browser/45dbec7b-3361-418c-8efb-9d2b1a6478fc
+1642872869448	Marionette	INFO	Listening on port 38105
+1642872869528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=bAIMzn1dqySLMyBPqWsYTLMIOG0&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fselects1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642872892670	Marionette	INFO	Stopped listening on port 38105
+1642873485029	geckodriver	INFO	Listening on 127.0.0.1:48001
+1642873485106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57931" "-no-remote" "-profile" "/tmp/rust_mozprofilemu6XTx"
+Gtk-Message: 20:44:45.243: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 20:44:45.244: Failed to load module "window-decorations-gtk-module"
+1642873486140	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemu6XTx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57931/devtools/browser/1d605d75-a5f1-41de-b6a5-0b691f062fd1
+1642873488355	Marionette	INFO	Listening on port 38231
+1642873488447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=4IFvcoIFdNV2yI-J6YZWcnvmKdA&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fselects1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 1431 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642873510299	Marionette	INFO	Stopped listening on port 38231
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642873643677	geckodriver	INFO	Listening on 127.0.0.1:51571
+1642873643752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34697" "-no-remote" "-profile" "/tmp/rust_mozprofilezHh6Rt"
+Gtk-Message: 20:47:23.884: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 20:47:23.885: Failed to load module "window-decorations-gtk-module"
+1642873644769	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezHh6Rt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34697/devtools/browser/568e0592-bc01-4062-96a6-432e0b053b49
+1642873646959	Marionette	INFO	Listening on port 39471
+1642873646999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=xESdwntzsRKnZP_GKaBpJdEgYyI&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fselects1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642873669445	Marionette	INFO	Stopped listening on port 39471
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642873848096	geckodriver	INFO	Listening on 127.0.0.1:36787
+1642873848172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50383" "-no-remote" "-profile" "/tmp/rust_mozprofile6kwqzQ"
+Gtk-Message: 20:50:48.304: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 20:50:48.305: Failed to load module "window-decorations-gtk-module"
+1642873849206	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6kwqzQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50383/devtools/browser/0a3293cb-e8fd-40cc-879c-a8dd5b9b740a
+1642873851445	Marionette	INFO	Listening on port 35703
+1642873851512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=TxTi8CPxASEWPm2LU0yfFcHqfn8&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fselects1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642873874772	Marionette	INFO	Stopped listening on port 35703
+1642874086859	geckodriver	INFO	Listening on 127.0.0.1:60653
+1642874086932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50801" "-no-remote" "-profile" "/tmp/rust_mozprofilesi8Aj0"
+Gtk-Message: 20:54:47.059: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 20:54:47.060: Failed to load module "window-decorations-gtk-module"
+1642874087935	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesi8Aj0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50801/devtools/browser/aefa4e76-11df-4fd0-b64b-7fbc89003362
+1642874090097	Marionette	INFO	Listening on port 45745
+1642874090178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=Pmsl2SaFJJARPPh1UvSuMrHLSLM&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fselects1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642874112788	Marionette	INFO	Stopped listening on port 45745
+1642874183310	geckodriver	INFO	Listening on 127.0.0.1:46923
+1642874183385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44055" "-no-remote" "-profile" "/tmp/rust_mozprofile5k0d2i"
+Gtk-Message: 20:56:23.515: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 20:56:23.516: Failed to load module "window-decorations-gtk-module"
+1642874184412	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5k0d2i/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44055/devtools/browser/c36572bc-44e7-488d-bec1-4944512e3ef8
+1642874186801	Marionette	INFO	Listening on port 46181
+1642874186929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=w8KhcTe3lkCKW2Vqu5NR1fLc8Xw&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fselects1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642874210687	Marionette	INFO	Stopped listening on port 46181
+1642874278606	geckodriver	INFO	Listening on 127.0.0.1:40073
+1642874278685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56319" "-no-remote" "-profile" "/tmp/rust_mozprofileDPffB7"
+Gtk-Message: 20:57:58.820: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 20:57:58.821: Failed to load module "window-decorations-gtk-module"
+1642874279755	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDPffB7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56319/devtools/browser/1e655ef8-352a-4d13-919c-76a661eb9704
+1642874282056	Marionette	INFO	Listening on port 34425
+1642874282129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=fQNjZ0DaSdrPl--e-pyb_pMSTbM&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fselects1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642874305852	Marionette	INFO	Stopped listening on port 34425
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642874967107	geckodriver	INFO	Listening on 127.0.0.1:47375
+1642874967184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39923" "-no-remote" "-profile" "/tmp/rust_mozprofileK6IbjP"
+Gtk-Message: 21:09:27.323: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 21:09:27.324: Failed to load module "window-decorations-gtk-module"
+1642874968208	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK6IbjP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39923/devtools/browser/fcdad27a-0ebe-480b-abc0-05d716dc9e56
+1642874970444	Marionette	INFO	Listening on port 44745
+1642874970524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=B6aL_wsOYSfQrH764x8K5cN9DAU&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fselects1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642874993001	Marionette	INFO	Stopped listening on port 44745
+1642875019699	geckodriver	INFO	Listening on 127.0.0.1:40563
+1642875019774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56223" "-no-remote" "-profile" "/tmp/rust_mozprofileDmINtd"
+Gtk-Message: 21:10:19.901: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 21:10:19.901: Failed to load module "window-decorations-gtk-module"
+1642875020794	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDmINtd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56223/devtools/browser/2aab60ac-46dc-486e-8855-112991c66b73
+1642875023041	Marionette	INFO	Listening on port 46011
+1642875023123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=0V7MxUWv1a_bFdS-PlaczeV2-uI&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fselects1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642875027406	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642875047587	Marionette	INFO	Stopped listening on port 46011
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1642875503409	geckodriver	INFO	Listening on 127.0.0.1:41947
+1642875503481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33863" "-no-remote" "-profile" "/tmp/rust_mozprofile2LNRxz"
+Gtk-Message: 21:18:23.623: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 21:18:23.624: Failed to load module "window-decorations-gtk-module"
+1642875504500	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2LNRxz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33863/devtools/browser/4af3160b-fdf1-4be4-903d-4192c5b41831
+1642875506667	Marionette	INFO	Listening on port 43105
+1642875506726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=-ze1kwT2jBpbsQhFPh5Nc3cIncQ&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexecute_script.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642875529466	Marionette	INFO	Stopped listening on port 43105
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642875629898	geckodriver	INFO	Listening on 127.0.0.1:43923
+1642875629979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42831" "-no-remote" "-profile" "/tmp/rust_mozprofilegni5X7"
+Gtk-Message: 21:20:30.114: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 21:20:30.115: Failed to load module "window-decorations-gtk-module"
+1642875631010	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegni5X7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42831/devtools/browser/d4f95c02-cf9b-4e90-aeab-9686ec628ceb
+1642875633219	Marionette	INFO	Listening on port 45539
+1642875633318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=18sb5PDRZM_m1wUKwF9abwNpzOA&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexecute_script.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642875655311	Marionette	INFO	Stopped listening on port 45539
+1642875726263	geckodriver	INFO	Listening on 127.0.0.1:51585
+1642875726338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33409" "-no-remote" "-profile" "/tmp/rust_mozprofile4YCQel"
+Gtk-Message: 21:22:06.466: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 21:22:06.467: Failed to load module "window-decorations-gtk-module"
+1642875727352	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4YCQel/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33409/devtools/browser/e7caf6ae-2c7a-4f9b-8529-a760ee4fcaa3
+1642875729597	Marionette	INFO	Listening on port 43911
+1642875729688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=JERa-2bDwCoxf-XIEMwUBONS6p8&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexecute_script.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 144 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642875751709	Marionette	INFO	Stopped listening on port 43911
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1642875835978	geckodriver	INFO	Listening on 127.0.0.1:52183
+1642875836055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42523" "-no-remote" "-profile" "/tmp/rust_mozprofileHO0sNg"
+Gtk-Message: 21:23:56.180: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 21:23:56.181: Failed to load module "window-decorations-gtk-module"
+1642875837055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHO0sNg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42523/devtools/browser/e2c285bd-a202-4880-8fec-764f3be8101f
+1642875839301	Marionette	INFO	Listening on port 40961
+1642875839408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=6-2ir6czjiXbdMV5Z5u04WX1BC8&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexecute_script.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 5007 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642875861555	Marionette	INFO	Stopped listening on port 40961
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1642876771732	geckodriver	INFO	Listening on 127.0.0.1:40041
+1642876771810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39427" "-no-remote" "-profile" "/tmp/rust_mozprofileZ47cDE"
+Gtk-Message: 21:39:31.945: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 21:39:31.946: Failed to load module "window-decorations-gtk-module"
+1642876772828	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ47cDE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39427/devtools/browser/5c9acde6-f097-4ba8-9e31-13daf5854734
+1642876775022	Marionette	INFO	Listening on port 32815
+1642876775150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=O4l9pt4MswtyRrqJHpxIGnFEEY0&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexecute_script.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 4116 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642876797728	Marionette	INFO	Stopped listening on port 32815
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642876863528	geckodriver	INFO	Listening on 127.0.0.1:47625
+1642876863603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60023" "-no-remote" "-profile" "/tmp/rust_mozprofileTZeA7k"
+Gtk-Message: 21:41:03.732: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 21:41:03.732: Failed to load module "window-decorations-gtk-module"
+1642876864623	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTZeA7k/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60023/devtools/browser/4ae383e2-ba1b-4432-b419-a55cf199ee9e
+1642876866883	Marionette	INFO	Listening on port 39961
+1642876866949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=6VyQEV8GiJ10Ng_7qhuR3npOGPc&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexecute_script.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642876890355	Marionette	INFO	Stopped listening on port 39961
+1642876922617	geckodriver	INFO	Listening on 127.0.0.1:51509
+1642876922692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60203" "-no-remote" "-profile" "/tmp/rust_mozprofilepzHGy7"
+Gtk-Message: 21:42:02.822: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 21:42:02.823: Failed to load module "window-decorations-gtk-module"
+1642876923711	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepzHGy7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60203/devtools/browser/786bae94-d14a-4faf-a622-9e840653cf58
+1642876926243	Marionette	INFO	Listening on port 39753
+1642876926334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=QpzuHZNRUJbcKLFCidyPawNjH1g&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexecute_script.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 156 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642876949195	Marionette	INFO	Stopped listening on port 39753
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642877119158	geckodriver	INFO	Listening on 127.0.0.1:49041
+1642877119235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40079" "-no-remote" "-profile" "/tmp/rust_mozprofileWwhpk6"
+Gtk-Message: 21:45:19.422: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 21:45:19.423: Failed to load module "window-decorations-gtk-module"
+1642877120323	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWwhpk6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40079/devtools/browser/5b982b2d-2aa3-426a-be9f-7556b08fcdb7
+1642877122661	Marionette	INFO	Listening on port 38153
+1642877122778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=WeJAp1Q2KMa3USRat9ocMS-k1Yo&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexecute_script.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 4868 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642877145732	Marionette	INFO	Stopped listening on port 38153
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642877511108	geckodriver	INFO	Listening on 127.0.0.1:45397
+1642877511192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58287" "-no-remote" "-profile" "/tmp/rust_mozprofileqi7pR9"
+Gtk-Message: 21:51:51.334: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 21:51:51.335: Failed to load module "window-decorations-gtk-module"
+1642877512217	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqi7pR9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58287/devtools/browser/4d90532e-ab7e-4a95-9aab-a5d16bbc12c0
+1642877514531	Marionette	INFO	Listening on port 38927
+1642877514637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=FfdUaUCBexXF2DCXspjwwziTGfI&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexecute_script.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642877536951	Marionette	INFO	Stopped listening on port 38927
+1642877697478	geckodriver	INFO	Listening on 127.0.0.1:55707
+1642877697559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35313" "-no-remote" "-profile" "/tmp/rust_mozprofilewHtCIV"
+Gtk-Message: 21:54:57.690: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 21:54:57.691: Failed to load module "window-decorations-gtk-module"
+1642877698579	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewHtCIV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35313/devtools/browser/2873863d-743f-4a8f-861a-e76bb097e827
+1642877700795	Marionette	INFO	Listening on port 40761
+1642877700901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=AnX0_qHGjTVKLb00rCaq13mZpsc&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexecute_script.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 821 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642877723628	Marionette	INFO	Stopped listening on port 40761
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1642877848703	geckodriver	INFO	Listening on 127.0.0.1:37765
+1642877848782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34787" "-no-remote" "-profile" "/tmp/rust_mozprofile3xUJVB"
+Gtk-Message: 21:57:28.911: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 21:57:28.911: Failed to load module "window-decorations-gtk-module"
+1642877849875	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3xUJVB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34787/devtools/browser/d44cc7fa-59a5-4bd4-80cc-276aad7343e8
+1642877852075	Marionette	INFO	Listening on port 40151
+1642877852130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=150n3Y5XHFnsoH9qSxup1ukv5bE&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexecute_script.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 5296 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642877874827	Marionette	INFO	Stopped listening on port 40151
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642877998386	geckodriver	INFO	Listening on 127.0.0.1:54055
+1642877998463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39057" "-no-remote" "-profile" "/tmp/rust_mozprofiles4BIlP"
+Gtk-Message: 21:59:58.591: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 21:59:58.592: Failed to load module "window-decorations-gtk-module"
+1642877999482	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles4BIlP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39057/devtools/browser/0bc2157f-13ce-4d0c-bee2-b7c544cdb885
+1642878001739	Marionette	INFO	Listening on port 41119
+1642878001801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=6HO1qsMo-Hv_74pdk7_FR4HoIg8&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexecute_script.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642878006441	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642878026654	Marionette	INFO	Stopped listening on port 41119
+1642878113354	geckodriver	INFO	Listening on 127.0.0.1:42677
+1642878113427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40585" "-no-remote" "-profile" "/tmp/rust_mozprofileE5kNRy"
+Gtk-Message: 22:01:53.563: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:01:53.564: Failed to load module "window-decorations-gtk-module"
+1642878114451	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE5kNRy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40585/devtools/browser/b540b5c1-646e-4c11-9022-71047287bdfe
+1642878116668	Marionette	INFO	Listening on port 33519
+1642878116766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=ukfSlQAnkAtwtm7fkeMP7X1p2MA&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexecute_script.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642878119847	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642878139965	Marionette	INFO	Stopped listening on port 33519
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642878799670	geckodriver	INFO	Listening on 127.0.0.1:53099
+1642878799742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46931" "-no-remote" "-profile" "/tmp/rust_mozprofilejuI15U"
+Gtk-Message: 22:13:19.873: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:13:19.874: Failed to load module "window-decorations-gtk-module"
+1642878800756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejuI15U/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46931/devtools/browser/8efd6bc4-5f3f-4b8c-90ba-0de4ad8b2f23
+1642878802973	Marionette	INFO	Listening on port 44179
+1642878803108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=S4o6RDuTQGq_xrLhneljB61yj6U&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Ffile_input.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642878827016	Marionette	INFO	Stopped listening on port 44179
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642879594839	geckodriver	INFO	Listening on 127.0.0.1:54845
+1642879594915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45239" "-no-remote" "-profile" "/tmp/rust_mozprofileiJHQLT"
+Gtk-Message: 22:26:35.048: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:26:35.049: Failed to load module "window-decorations-gtk-module"
+1642879595943	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiJHQLT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45239/devtools/browser/5feab8b0-98ab-4a7e-a57c-88527d41aa21
+1642879598134	Marionette	INFO	Listening on port 42013
+1642879598254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=bkBEg6By5fksy5Z2onAGpwo6sNA&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Ffile_input.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642879621284	Marionette	INFO	Stopped listening on port 42013
+1642879716503	geckodriver	INFO	Listening on 127.0.0.1:55699
+1642879716579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57387" "-no-remote" "-profile" "/tmp/rust_mozprofileuorXkN"
+Gtk-Message: 22:28:36.713: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:28:36.714: Failed to load module "window-decorations-gtk-module"
+1642879717616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuorXkN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57387/devtools/browser/c6a9eb82-cfe9-45a0-81d8-03598586f9af
+1642879719761	Marionette	INFO	Listening on port 41617
+1642879719824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=Gtd7xDsDqOc0CEiYv_Hz0hUqhwg&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Ffile_input.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 5398 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642879744339	Marionette	INFO	Stopped listening on port 41617
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642879829020	geckodriver	INFO	Listening on 127.0.0.1:33585
+1642879829093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57745" "-no-remote" "-profile" "/tmp/rust_mozprofilegA2YKK"
+Gtk-Message: 22:30:29.218: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:30:29.218: Failed to load module "window-decorations-gtk-module"
+1642879830127	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegA2YKK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57745/devtools/browser/43cea590-c3df-459a-827b-bc9c1c70b8f4
+1642879832344	Marionette	INFO	Listening on port 43401
+1642879832433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=rxbYYeUjNpfOn8QRnz9nhfEnyNQ&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Ffile_input.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642879855152	Marionette	INFO	Stopped listening on port 43401
+1642879883195	geckodriver	INFO	Listening on 127.0.0.1:37953
+1642879883283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33303" "-no-remote" "-profile" "/tmp/rust_mozprofilePRi41h"
+Gtk-Message: 22:31:23.412: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:31:23.413: Failed to load module "window-decorations-gtk-module"
+1642879884308	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePRi41h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33303/devtools/browser/1ee04f6e-f80d-41c3-b1a0-e82b6e729354
+1642879886655	Marionette	INFO	Listening on port 43539
+1642879886722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=QdbhDtfai-g95cpOcVFxwCpvszU&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Ffile_input.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 358 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642879909206	Marionette	INFO	Stopped listening on port 43539
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642880178282	geckodriver	INFO	Listening on 127.0.0.1:37637
+1642880178357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42683" "-no-remote" "-profile" "/tmp/rust_mozprofiletwqOqp"
+Gtk-Message: 22:36:18.493: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:36:18.494: Failed to load module "window-decorations-gtk-module"
+1642880179401	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletwqOqp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42683/devtools/browser/333a5a7b-8f36-4877-95d5-69acfbfad5fe
+1642880181582	Marionette	INFO	Listening on port 36765
+1642880181702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=v2xLCgOVC7iYbUmX3Evvktcpqx4&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Ffile_input.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 6572 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642880204138	Marionette	INFO	Stopped listening on port 36765
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642880373770	geckodriver	INFO	Listening on 127.0.0.1:45991
+1642880373850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52839" "-no-remote" "-profile" "/tmp/rust_mozprofileuFp3nk"
+Gtk-Message: 22:39:33.993: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:39:33.994: Failed to load module "window-decorations-gtk-module"
+1642880374877	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuFp3nk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52839/devtools/browser/e10d3b66-1f69-436e-b27b-1f5292b0cf94
+1642880377154	Marionette	INFO	Listening on port 40899
+1642880377206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=CAcD4NIs3Yioq7h_2G9RA_oHnXc&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Ffile_input.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 5022 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642880400171	Marionette	INFO	Stopped listening on port 40899
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642880416432	geckodriver	INFO	Listening on 127.0.0.1:35115
+1642880416441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48083" "-no-remote" "-profile" "/tmp/rust_mozprofileQQW6Jl"
+Gtk-Message: 22:40:16.565: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:40:16.566: Failed to load module "window-decorations-gtk-module"
+1642880417442	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQQW6Jl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48083/devtools/browser/860f7b79-38e1-4267-a70a-7aa659b7d9c4
+1642880419787	Marionette	INFO	Listening on port 42429
+1642880419883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=8D8GchvgMbLXvET55wLYMHlcvsQ&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Ffile_input.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642880446849	Marionette	INFO	Stopped listening on port 42429
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.target-configuration4, type updateConfiguration failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+updateConfiguration@resource://devtools/shared/commands/target-configuration/target-configuration-command.js:51:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1668:21
+CanCloseWindow@chrome://browser/content/browser.js:8064:36
+canClose@chrome://browser/content/browser.js:6491:12
+GeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2713:20
+despatch@chrome://remote/content/marionette/server.js:306:40
+execute@chrome://remote/content/marionette/server.js:279:16
+onPacket/<@chrome://remote/content/marionette/server.js:252:20
+onPacket@chrome://remote/content/marionette/server.js:253:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.target-configuration4, type updateConfiguration failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+updateConfiguration@resource://devtools/shared/commands/target-configuration/target-configuration-command.js:51:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1668:21
+CanCloseWindow@chrome://browser/content/browser.js:8064:36
+canClose@chrome://browser/content/browser.js:6491:12
+GeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2713:20
+despatch@chrome://remote/content/marionette/server.js:306:40
+execute@chrome://remote/content/marionette/server.js:279:16
+onPacket/<@chrome://remote/content/marionette/server.js:252:20
+onPacket@chrome://remote/content/marionette/server.js:253:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.target-configuration4, type updateConfiguration failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+updateConfiguration@resource://devtools/shared/commands/target-configuration/target-configuration-command.js:51:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1668:21
+CanCloseWindow@chrome://browser/content/browser.js:8064:36
+canClose@chrome://browser/content/browser.js:6491:12
+GeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2713:20
+despatch@chrome://remote/content/marionette/server.js:306:40
+execute@chrome://remote/content/marionette/server.js:279:16
+onPacket/<@chrome://remote/content/marionette/server.js:252:20
+onPacket@chrome://remote/content/marionette/server.js:253:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20
+
+1642880459682	geckodriver	INFO	Listening on 127.0.0.1:46391
+1642880459691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39667" "-no-remote" "-profile" "/tmp/rust_mozprofilevnVswB"
+Gtk-Message: 22:40:59.817: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:40:59.817: Failed to load module "window-decorations-gtk-module"
+1642880460701	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevnVswB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39667/devtools/browser/ffa488ed-65e8-4394-9b6f-65a30a166d3c
+1642880463156	Marionette	INFO	Listening on port 45331
+1642880463243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=8PaL-X_r5D9Yorwt1E7ui7In2pY&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Ffile_input.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 5983 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css without a browsingContextID set
+1642880487937	Marionette	INFO	Stopped listening on port 45331
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967298/customhighlighter50, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:731:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:699:16\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2713:20\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642880501249	geckodriver	INFO	Listening on 127.0.0.1:58547
+1642880501256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35059" "-no-remote" "-profile" "/tmp/rust_mozprofile98lIqK"
+Gtk-Message: 22:41:41.387: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:41:41.388: Failed to load module "window-decorations-gtk-module"
+1642880502271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile98lIqK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35059/devtools/browser/5f8ddef7-53e8-400d-9409-c3f09f77bf49
+1642880504933	Marionette	INFO	Listening on port 33223
+1642880505011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=7QujFb9rCg9CUwb4NtOGczZMGgQ&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Ffile_input.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css without a browsingContextID set
+1642880531631	Marionette	INFO	Stopped listening on port 33223
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483650/customhighlighter57, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:731:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:699:16\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2713:20\ndespatch@chrome://remote/content/marionette/server.js:306:40\nexecute@chrome://remote/content/marionette/server.js:279:16\nonPacket/<@chrome://remote/content/marionette/server.js:252:20\nonPacket@chrome://remote/content/marionette/server.js:253:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1642880965156	geckodriver	INFO	Listening on 127.0.0.1:48977
+1642880965165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40877" "-no-remote" "-profile" "/tmp/rust_mozprofileFs6OCt"
+Gtk-Message: 22:49:25.297: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:49:25.297: Failed to load module "window-decorations-gtk-module"
+1642880966186	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFs6OCt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40877/devtools/browser/17647e89-8d7c-427c-aace-c1f8674aaaa9
+1642880968346	Marionette	INFO	Listening on port 40769
+1642880968418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=hKV1YUduO5WFLXm-NwkQ78w2MuI&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Ffile_input.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642880973341	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 2203 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642881044299	Marionette	INFO	Stopped listening on port 40769
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642881119542	geckodriver	INFO	Listening on 127.0.0.1:48657
+1642881119553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56515" "-no-remote" "-profile" "/tmp/rust_mozprofileGJl9c8"
+Gtk-Message: 22:51:59.681: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 22:51:59.682: Failed to load module "window-decorations-gtk-module"
+1642881120583	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGJl9c8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56515/devtools/browser/98ab7647-117f-42de-9390-cc53b80caff0
+1642881122753	Marionette	INFO	Listening on port 42509
+1642881122814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=3Qgh32yJG8ve3RmfZS70lT0EUtA&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Ffile_input.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642881126937	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=JCftbxfzymfEoZSRNyNOeSWbaLk&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Ffile_input.html%3Ffirstname%3D%25D0%259C%25D0%25BE%25D0%25B9%2B%25D0%25BE%25D1%2582%25D0%25B2%25D0%25B5%25D1%2582%26lastname%3D%25D0%259C%25D0%25BE%25D0%25B9%2B%25D0%25BE%25D1%2582%25D0%25B2%25D0%25B5%25D1%2582%26email%3D%25D0%259C%25D0%25BE%25D0%25B9%2B%25D0%25BE%25D1%2582%25D0%25B2%25D0%25B5%25D1%2582%26file%3Dfile.txt%23, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642881653302	Marionette	INFO	Stopped listening on port 42509
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642881877882	geckodriver	INFO	Listening on 127.0.0.1:35063
+1642881877890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55589" "-no-remote" "-profile" "/tmp/rust_mozprofileoT7QzL"
+Gtk-Message: 23:04:38.019: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:04:38.020: Failed to load module "window-decorations-gtk-module"
+1642881878918	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoT7QzL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55589/devtools/browser/6b4f0894-fa56-448c-9526-58d13e67d054
+1642881881163	Marionette	INFO	Listening on port 39167
+1642881881237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=luBRBqaTBydz761xYfZziY6QI80&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Falert_accept.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642881943691	Marionette	INFO	Stopped listening on port 39167
+1642881992882	geckodriver	INFO	Listening on 127.0.0.1:34661
+1642881992890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50433" "-no-remote" "-profile" "/tmp/rust_mozprofileFHc630"
+Gtk-Message: 23:06:33.024: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:06:33.025: Failed to load module "window-decorations-gtk-module"
+1642881993914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFHc630/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50433/devtools/browser/17b49b71-371b-416f-a1b4-f19e636c25a4
+1642881996203	Marionette	INFO	Listening on port 34861
+1642881996331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=97mv59U1y70wH5sIVnC9v-X53Aw&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Falert_accept.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642882059380	Marionette	INFO	Stopped listening on port 34861
+1642882076749	geckodriver	INFO	Listening on 127.0.0.1:53827
+1642882076760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53611" "-no-remote" "-profile" "/tmp/rust_mozprofilemhYujZ"
+Gtk-Message: 23:07:56.891: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:07:56.892: Failed to load module "window-decorations-gtk-module"
+1642882077777	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemhYujZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53611/devtools/browser/993611e4-674d-4475-8ce4-e6983387bbf5
+1642882079996	Marionette	INFO	Listening on port 43931
+1642882080100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=x2nso9SeqDC9gX-sAcavQksazL0&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Falert_accept.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642882142551	Marionette	INFO	Stopped listening on port 43931
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642882224358	geckodriver	INFO	Listening on 127.0.0.1:37747
+1642882224367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35333" "-no-remote" "-profile" "/tmp/rust_mozprofilezDmBSU"
+Gtk-Message: 23:10:24.502: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:10:24.502: Failed to load module "window-decorations-gtk-module"
+1642882225399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezDmBSU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35333/devtools/browser/2d710f73-4477-4e54-9244-c13b6bf3173e
+1642882227691	Marionette	INFO	Listening on port 39883
+1642882227814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=U6MJoMPbBLIBXDtAnfoZuvkj1hU&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Falert_accept.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642882290319	Marionette	INFO	Stopped listening on port 39883
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642882339414	geckodriver	INFO	Listening on 127.0.0.1:59265
+1642882339422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59755" "-no-remote" "-profile" "/tmp/rust_mozprofileuqBM99"
+Gtk-Message: 23:12:19.552: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:12:19.553: Failed to load module "window-decorations-gtk-module"
+1642882340439	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuqBM99/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59755/devtools/browser/39d2aa69-17ee-49f9-86c1-0287a9fbd8c2
+1642882342763	Marionette	INFO	Listening on port 39535
+1642882342872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=HdetSPlYtmfIt_L9kOjW4OwvRtY&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Falert_accept.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642882406794	Marionette	INFO	Stopped listening on port 39535
+1642882482285	geckodriver	INFO	Listening on 127.0.0.1:53995
+1642882482296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41177" "-no-remote" "-profile" "/tmp/rust_mozprofiletmEwvB"
+Gtk-Message: 23:14:42.426: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:14:42.427: Failed to load module "window-decorations-gtk-module"
+1642882483317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletmEwvB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41177/devtools/browser/e24c9313-27ea-43f7-8cb8-8b00b4d017c4
+1642882485591	Marionette	INFO	Listening on port 42137
+1642882485654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=PcKPDtLVuI7PyxHzZ9TDUfsaOKM&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Falert_accept.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642882507988	Marionette	INFO	Stopped listening on port 42137
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642882617289	geckodriver	INFO	Listening on 127.0.0.1:34349
+1642882617298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45727" "-no-remote" "-profile" "/tmp/rust_mozprofilepojSiZ"
+Gtk-Message: 23:16:57.427: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:16:57.428: Failed to load module "window-decorations-gtk-module"
+1642882618323	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepojSiZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45727/devtools/browser/5736411d-7211-4f9f-9251-109d8ea7c2ed
+1642882620548	Marionette	INFO	Listening on port 38321
+1642882620638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=o8H02r1Pu9UEW3djiWlKNMbGbl0&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Falert_accept.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642882643455	Marionette	INFO	Stopped listening on port 38321
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642882669457	geckodriver	INFO	Listening on 127.0.0.1:56453
+1642882669466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58199" "-no-remote" "-profile" "/tmp/rust_mozprofileqMk2xc"
+Gtk-Message: 23:17:49.607: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:17:49.608: Failed to load module "window-decorations-gtk-module"
+1642882670507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqMk2xc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58199/devtools/browser/e5fded20-0145-4dfa-94db-e11bc018affd
+1642882672641	Marionette	INFO	Listening on port 40963
+1642882672718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=Ayx7Gz6K4qoHlhrufmMLTSbfa0k&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Falert_accept.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642882678268	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642882698360	Marionette	INFO	Stopped listening on port 40963
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642883049822	geckodriver	INFO	Listening on 127.0.0.1:43533
+1642883049831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51175" "-no-remote" "-profile" "/tmp/rust_mozprofilejgngL1"
+Gtk-Message: 23:24:09.961: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:24:09.961: Failed to load module "window-decorations-gtk-module"
+1642883050939	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejgngL1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51175/devtools/browser/3f08c5e5-1ced-4fb0-9899-edbb00ea38bd
+1642883053223	Marionette	INFO	Listening on port 46661
+1642883053288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=atkyLiswCOrmxk2oVK7gOmjNWsE&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Falert_accept.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642883058333	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642883078400	Marionette	INFO	Stopped listening on port 46661
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642883087050	geckodriver	INFO	Listening on 127.0.0.1:46655
+1642883087058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57155" "-no-remote" "-profile" "/tmp/rust_mozprofileFxQ1ot"
+Gtk-Message: 23:24:47.188: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:24:47.189: Failed to load module "window-decorations-gtk-module"
+1642883088077	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFxQ1ot/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57155/devtools/browser/de3fa940-b510-4a73-800b-1949653482be
+1642883090227	Marionette	INFO	Listening on port 41013
+1642883090296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=E_yzimY1DB06A24MvgzTZh782Pw&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fredirect_accept.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642883092741	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642883093927	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 4755 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642883113949	Marionette	INFO	Stopped listening on port 41013
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642884286801	geckodriver	INFO	Listening on 127.0.0.1:52091
+1642884309351	geckodriver	INFO	Listening on 127.0.0.1:47083
+1642884333196	geckodriver	INFO	Listening on 127.0.0.1:43771
+1642884340772	geckodriver	INFO	Listening on 127.0.0.1:46681
+1642884713910	geckodriver	INFO	Listening on 127.0.0.1:59533
+1642884726299	geckodriver	INFO	Listening on 127.0.0.1:45187
+1642884741116	geckodriver	INFO	Listening on 127.0.0.1:40865
+1642884745650	geckodriver	INFO	Listening on 127.0.0.1:52535
+1642884786381	geckodriver	INFO	Listening on 127.0.0.1:59731
+1642887475992	geckodriver	INFO	Listening on 127.0.0.1:38149
+1642887475998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43077" "-no-remote" "-profile" "/tmp/rust_mozprofilee6iNnb"
+Gtk-Message: 00:37:56.177: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:37:56.178: Failed to load module "window-decorations-gtk-module"
+1642887477065	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee6iNnb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43077/devtools/browser/21ffbc28-66cf-49a3-aade-c8cdd90c1c33
+1642887479295	Marionette	INFO	Listening on port 36961
+1642887479338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=B3vXSZ1MriLteACfLby9Tif0Oyk&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fredirect_accept.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642887482340	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642887483478	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 6987 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642887495022	Marionette	INFO	Stopped listening on port 36961
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642887503655	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1642887516562	geckodriver	INFO	Listening on 127.0.0.1:49405
+1642887516568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36179" "-no-remote" "-profile" "/tmp/rust_mozprofileT6hGn6"
+Gtk-Message: 00:38:36.702: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:38:36.703: Failed to load module "window-decorations-gtk-module"
+1642887517587	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT6hGn6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36179/devtools/browser/729e6285-64f2-4210-b17f-6863a1454855
+1642887519806	Marionette	INFO	Listening on port 39275
+1642887519909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=MzJaObTZNSUvrYC47wnOwol6tIQ&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fredirect_accept.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642887521937	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642887523095	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642887528971	Marionette	INFO	Stopped listening on port 39275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642887543077	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1642887841657	geckodriver	INFO	Listening on 127.0.0.1:60087
+1642887841664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45163" "-no-remote" "-profile" "/tmp/rust_mozprofileDqrxX7"
+Gtk-Message: 00:44:01.799: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:44:01.799: Failed to load module "window-decorations-gtk-module"
+1642887842691	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDqrxX7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45163/devtools/browser/ea8dc3fe-a406-4207-91f0-63ff2895c044
+1642887844973	Marionette	INFO	Listening on port 42047
+1642887845008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=Yrv5CmNcDbIMqLRd3lOARK14tSU&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fredirect_accept.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642887847144	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642887848264	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 1656 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642887868269	Marionette	INFO	Stopped listening on port 42047
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1642888569226	geckodriver	INFO	Listening on 127.0.0.1:33959
+1642888569235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50199" "-no-remote" "-profile" "/tmp/rust_mozprofileUekJsT"
+Gtk-Message: 00:56:09.371: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:56:09.372: Failed to load module "window-decorations-gtk-module"
+1642888570287	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUekJsT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50199/devtools/browser/c03d0b87-4854-46ca-b4fa-26105ca21547
+1642888572485	Marionette	INFO	Listening on port 46467
+1642888572570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=cEuZ0liP2VfwSr_HepN0PBYDu7A&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fredirect_accept.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642888576154	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://suninjuly.github.io"
+1642888577301	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 10 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642888597435	Marionette	INFO	Stopped listening on port 46467
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1189: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642888776598	geckodriver	INFO	Listening on 127.0.0.1:50001
+1642888776606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37301" "-no-remote" "-profile" "/tmp/rust_mozprofilexgLjpl"
+Gtk-Message: 00:59:36.731: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:59:36.732: Failed to load module "window-decorations-gtk-module"
+1642888777612	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexgLjpl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37301/devtools/browser/d5494da7-3809-4d4d-8d2f-a976745d225d
+1642888779945	Marionette	INFO	Listening on port 45265
+1642888780046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=uOXPNwD0U6p2aPPA9hVYPFD4bAk&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fwait1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642888792113	Marionette	INFO	Stopped listening on port 45265
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642888915349	geckodriver	INFO	Listening on 127.0.0.1:54727
+1642888915363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58153" "-no-remote" "-profile" "/tmp/rust_mozprofilei5JoBx"
+Gtk-Message: 01:01:55.509: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:01:55.510: Failed to load module "window-decorations-gtk-module"
+1642888916387	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei5JoBx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58153/devtools/browser/a39162ba-c01c-4214-b0b0-fafced87529f
+1642888918624	Marionette	INFO	Listening on port 40507
+1642888918730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=WPn161Xnfjyv8_9tXv0o9rcZORg&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fwait1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 7570 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642888993348	geckodriver	INFO	Listening on 127.0.0.1:36495
+1642888993357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47635" "-no-remote" "-profile" "/tmp/rust_mozprofileWpKkCZ"
+Gtk-Message: 01:03:13.503: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:03:13.504: Failed to load module "window-decorations-gtk-module"
+1642888994435	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWpKkCZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47635/devtools/browser/06027a48-f26d-470b-8474-fc312964799e
+1642888996697	Marionette	INFO	Listening on port 37565
+1642888996803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=f3a8hCqTyd5OrwCoLs1F5ZVooRg&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fwait1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 6979 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642889113303	geckodriver	INFO	Listening on 127.0.0.1:51039
+1642889113314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51037" "-no-remote" "-profile" "/tmp/rust_mozprofilecojHiO"
+Gtk-Message: 01:05:13.450: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:05:13.450: Failed to load module "window-decorations-gtk-module"
+1642889114377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecojHiO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51037/devtools/browser/34a620a4-7f6d-495d-bac7-e4f19acaa3c4
+1642889116637	Marionette	INFO	Listening on port 42741
+1642889116753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=c880QyZIo-Zpz8Nej9EPFKsIX4U&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fwait1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 6169 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642889176053	geckodriver	INFO	Listening on 127.0.0.1:51839
+1642889176062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47637" "-no-remote" "-profile" "/tmp/rust_mozprofileol8bDl"
+Gtk-Message: 01:06:16.202: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:06:16.203: Failed to load module "window-decorations-gtk-module"
+1642889177106	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileol8bDl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47637/devtools/browser/0ba4bcf5-e88a-4bc2-bd32-0b574e89ccb3
+1642889179528	Marionette	INFO	Listening on port 40967
+1642889179609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=-kBA10tbt5gJII1HBMcrUO11vBM&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fwait1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642889213061	geckodriver	INFO	Listening on 127.0.0.1:59561
+1642889213070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54065" "-no-remote" "-profile" "/tmp/rust_mozprofile76dKNB"
+Gtk-Message: 01:06:53.207: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:06:53.208: Failed to load module "window-decorations-gtk-module"
+1642889214109	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile76dKNB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54065/devtools/browser/d692a926-650f-4697-bbfc-c39380bc4c4c
+1642889216437	Marionette	INFO	Listening on port 36613
+1642889216513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=kEWAFB4Xu5Se5ayYUBSfHIPzaiA&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fwait1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 4979 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642889232600	Marionette	INFO	Stopped listening on port 36613
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642889362884	geckodriver	INFO	Listening on 127.0.0.1:42173
+1642889362893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60529" "-no-remote" "-profile" "/tmp/rust_mozprofileI3VGzr"
+Gtk-Message: 01:09:23.024: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:09:23.025: Failed to load module "window-decorations-gtk-module"
+1642889364030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI3VGzr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60529/devtools/browser/ce915099-bf03-4749-96e0-1ec8468214a4
+1642889366321	Marionette	INFO	Listening on port 39111
+1642889366440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=GpRmJ0IQoRzMiUC1K5NRk58vGXk&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fwait1.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 2709 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642889375077	Marionette	INFO	Stopped listening on port 39111
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642889511680	geckodriver	INFO	Listening on 127.0.0.1:58461
+1642889511697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34405" "-no-remote" "-profile" "/tmp/rust_mozprofileN0Svc2"
+Gtk-Message: 01:11:51.840: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:11:51.840: Failed to load module "window-decorations-gtk-module"
+1642889512751	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN0Svc2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34405/devtools/browser/f949d0c0-cddf-4bd6-a204-0c8c1c28b3c2
+1642889515297	Marionette	INFO	Listening on port 45399
+1642889515336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642889531205	Marionette	INFO	Stopped listening on port 45399
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642890175387	geckodriver	INFO	Listening on 127.0.0.1:50387
+1642890175396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51903" "-no-remote" "-profile" "/tmp/rust_mozprofilegoRqGJ"
+Gtk-Message: 01:22:55.527: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:22:55.528: Failed to load module "window-decorations-gtk-module"
+1642890176452	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegoRqGJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51903/devtools/browser/bf4dd7f8-85c1-491a-aa82-427770b3e54b
+1642890178773	Marionette	INFO	Listening on port 33033
+1642890178836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=XXR92XZUgkb_nT_-RUMf0qTTXQg&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fwait2.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642890181927	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:239:19
+TimedPromise@chrome://remote/content/marionette/sync.js:224:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1642890316860	geckodriver	INFO	Listening on 127.0.0.1:44035
+1642890316870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35345" "-no-remote" "-profile" "/tmp/rust_mozprofilevKrREF"
+Gtk-Message: 01:25:17.003: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:25:17.004: Failed to load module "window-decorations-gtk-module"
+1642890317925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevKrREF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35345/devtools/browser/18159d47-8fa1-401f-a4fa-dd22bd7aaee1
+1642890320314	Marionette	INFO	Listening on port 40979
+1642890320413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=DVYiHCotQ43FENVRg75j_OUI-vo&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fwait2.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642890332239	Marionette	INFO	Stopped listening on port 40979
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642890816801	geckodriver	INFO	Listening on 127.0.0.1:45387
+1642890816809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36913" "-no-remote" "-profile" "/tmp/rust_mozprofileWreLK9"
+Gtk-Message: 01:33:36.940: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:33:36.941: Failed to load module "window-decorations-gtk-module"
+1642890817861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWreLK9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36913/devtools/browser/2385f476-e33e-41a8-8cc5-799bee7dc664
+1642890820053	Marionette	INFO	Listening on port 33481
+1642890820156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=S8pk3_SqB3SZ4ysb93FDfh1_-Ls&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexplicit_wait2.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 494 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642890847987	Marionette	INFO	Stopped listening on port 33481
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642890909593	geckodriver	INFO	Listening on 127.0.0.1:54943
+1642890909603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54227" "-no-remote" "-profile" "/tmp/rust_mozprofilenX99FT"
+Gtk-Message: 01:35:09.739: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:35:09.740: Failed to load module "window-decorations-gtk-module"
+1642890910631	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenX99FT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54227/devtools/browser/aa7e0a07-2ede-4a5f-9c31-fbcecb0dc1d6
+1642890912788	Marionette	INFO	Listening on port 36311
+1642890912853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=aVods93-RFQ1KOL98oZwwH-HENY&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexplicit_wait2.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 5742 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642890922772	Marionette	INFO	Stopped listening on port 36311
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642890935311	geckodriver	INFO	Listening on 127.0.0.1:57869
+1642890935316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52727" "-no-remote" "-profile" "/tmp/rust_mozprofilea70DSb"
+Gtk-Message: 01:35:35.455: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:35:35.456: Failed to load module "window-decorations-gtk-module"
+1642890936342	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea70DSb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52727/devtools/browser/cedd426a-f639-4deb-984c-8eafb6b09a31
+1642890938573	Marionette	INFO	Listening on port 37775
+1642890938661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642890959544	Marionette	INFO	Stopped listening on port 37775
+1642890996010	geckodriver	INFO	Listening on 127.0.0.1:60999
+1642890996018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56631" "-no-remote" "-profile" "/tmp/rust_mozprofileIAEDNE"
+Gtk-Message: 01:36:36.150: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:36:36.151: Failed to load module "window-decorations-gtk-module"
+1642890997034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIAEDNE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56631/devtools/browser/35b68e6e-aa07-4b3c-99da-ca66f639d94a
+1642890999196	Marionette	INFO	Listening on port 42457
+1642890999263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=J82aH36T7NVYtUL7x3AOhWyH9Jc&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexplicit_wait2.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642891021839	Marionette	INFO	Stopped listening on port 42457
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642891148730	geckodriver	INFO	Listening on 127.0.0.1:34913
+1642891148741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54367" "-no-remote" "-profile" "/tmp/rust_mozprofile3DkHgI"
+Gtk-Message: 01:39:08.877: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 01:39:08.878: Failed to load module "window-decorations-gtk-module"
+1642891149766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3DkHgI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54367/devtools/browser/4b702290-cb10-40c7-a29d-2f3650e8afd1
+1642891152157	Marionette	INFO	Listening on port 46805
+1642891152284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=4bc88ab399a7cd417822130d722bc5369df7&rid=XJ42ZESPBLjFo7E6rr8kDYEVhCU&reg=43&referer=http%3A%2F%2Fsuninjuly.github.io%2Fexplicit_wait2.html, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642891174893	Marionette	INFO	Stopped listening on port 46805
+1642891215050	Marionette	INFO	Stopped listening on port 33033
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642891220072	Marionette	INFO	Stopped listening on port 40967
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642891221912	Marionette	INFO	Stopped listening on port 42741
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642891222171	Marionette	INFO	Stopped listening on port 37565
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642891222687	Marionette	INFO	Stopped listening on port 40507
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642934045870	geckodriver	INFO	Listening on 127.0.0.1:65301
